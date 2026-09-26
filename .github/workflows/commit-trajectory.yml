@@ -1,0 +1,40 @@
+name: Commit trajectory
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - assets/commit_trajectory.png
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-trajectory
+  cancel-in-progress: true
+
+jobs:
+  plot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install numpy matplotlib
+      - name: Plot
+        run: python .github/scripts/plot_commit_trajectory.py
+      - name: Commit
+        run: |
+          if git diff --quiet; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update commit trajectory [skip ci]"
+          git pull --rebase origin main
+          git push
