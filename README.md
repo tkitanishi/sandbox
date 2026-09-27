@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-09-27** の一言（35/37）
+> **2026-09-28** の一言（36/37）
 >
-> 海馬は現在地だけでなく、将来訪れる場所を予測する「予測地図」（successor representation）を表現しているという理論がある。
+> 経路積分を学習させた再帰型ニューラルネットワークの中に、グリッド細胞に似た表現が現れた。
 >
-> — *Stachenfeld, Botvinick & Gershman (2017) Nat Neurosci 20:1643-1653*
+> — *Banino et al. (2018) Nature 557:429-433*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
