@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-09-28** の一言（36/37）
+> **2026-09-29** の一言（37/37）
 >
-> 経路積分を学習させた再帰型ニューラルネットワークの中に、グリッド細胞に似た表現が現れた。
+> Tolman-Eichenbaum Machine は、海馬・嗅内皮質を「構造」と「感覚」を分けて一般化する仕組みとしてモデル化した。
 >
-> — *Banino et al. (2018) Nature 557:429-433*
+> — *Whittington et al. (2020) Cell 183:1249-1263*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
