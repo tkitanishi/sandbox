@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-02** の一言（3/37）
+> **2026-10-03** の一言（4/37）
 >
-> 自由に動くラットの海馬で、特定の場所にいるときだけ発火するニューロン（場所細胞）が初めて報告された。
+> O'Keefe と Nadel の著書『The Hippocampus as a Cognitive Map』が、海馬＝認知地図説を体系化した。
 >
-> — *O'Keefe & Dostrovsky (1971) Brain Res 34:171-175*
+> — *O'Keefe & Nadel (1978) Oxford Univ Press*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
