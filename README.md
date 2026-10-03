@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-03** の一言（4/37）
+> **2026-10-04** の一言（5/37）
 >
-> O'Keefe と Nadel の著書『The Hippocampus as a Cognitive Map』が、海馬＝認知地図説を体系化した。
+> 頭の向きに応じて発火する頭方位細胞が、ラットの後海馬台で詳しく報告された。
 >
-> — *O'Keefe & Nadel (1978) Oxford Univ Press*
+> — *Taube, Muller & Ranck (1990) J Neurosci 10:420-435*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
