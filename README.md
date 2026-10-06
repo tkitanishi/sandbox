@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-05** の一言（6/37）
+> **2026-10-06** の一言（7/37）
 >
-> 内側嗅内皮質で、環境全体に六角格子状の発火野をもつグリッド細胞が発見された。
+> 2014年のノーベル生理学・医学賞は、場所細胞とグリッド細胞の発見により O'Keefe、May-Britt Moser、Edvard Moser に授与された。
 >
-> — *Hafting et al. (2005) Nature 436:801-806*
+> — *Nobel Prize in Physiology or Medicine 2014*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
