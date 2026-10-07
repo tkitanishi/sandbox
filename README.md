@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-06** の一言（7/37）
+> **2026-10-07** の一言（8/37）
 >
-> 2014年のノーベル生理学・医学賞は、場所細胞とグリッド細胞の発見により O'Keefe、May-Britt Moser、Edvard Moser に授与された。
+> 内側嗅内皮質には、グリッド細胞と頭方位細胞の性質を併せ持つ conjunctive cell も存在する。
 >
-> — *Nobel Prize in Physiology or Medicine 2014*
+> — *Sargolini et al. (2006) Science 312:758-762*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
