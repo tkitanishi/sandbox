@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-07** の一言（8/37）
+> **2026-10-08** の一言（9/37）
 >
-> 内側嗅内皮質には、グリッド細胞と頭方位細胞の性質を併せ持つ conjunctive cell も存在する。
+> 環境の壁や縁に沿って発火する境界細胞（border cell）が内側嗅内皮質で報告された。
 >
-> — *Sargolini et al. (2006) Science 312:758-762*
+> — *Solstad et al. (2008) Science 322:1865-1868*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
