@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-15** の一言（16/37）
+> **2026-10-16** の一言（17/37）
 >
-> 覚醒中の休止時に、直前に走った経路の場所細胞の系列が逆順に再生される（reverse replay）。
+> Morris の水迷路では、濁った水の中に隠れた足場の位置を、ラットは周囲の手がかりを頼りに覚える。
 >
-> — *Foster & Wilson (2006) Nature 440:680-683*
+> — *Morris (1981) Learn Motiv 12:239-260*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
