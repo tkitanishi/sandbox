@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-17** の一言（18/37）
+> **2026-10-18** の一言（19/37）
 >
-> 放射状迷路では、ラットはすでに餌を取った通路を覚えていて、再訪問をほとんどしない。
+> ロンドンのタクシー運転手は対照群より海馬後部の灰白質体積が大きく、運転歴が長いほど大きかった。
 >
-> — *Olton & Samuelson (1976) J Exp Psychol Anim Behav Process 2:97-116*
+> — *Maguire et al. (2000) PNAS 97:4398-4403*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
