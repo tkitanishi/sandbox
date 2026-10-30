@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-29** の一言（30/37）
+> **2026-10-30** の一言（31/37）
 >
-> ラットの仔では、頭方位細胞が最初に成熟し、場所細胞、グリッド細胞の順に続く。
+> Lynch は、人が都市をパス・エッジ・ディストリクト・ノード・ランドマークの5要素で捉えると論じた。
 >
-> — *Wills et al. (2010); Langston et al. (2010) Science 328*
+> — *Lynch (1960) The Image of the City*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
