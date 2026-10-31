@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-30** の一言（31/37）
+> **2026-10-31** の一言（32/37）
 >
-> Lynch は、人が都市をパス・エッジ・ディストリクト・ノード・ランドマークの5要素で捉えると論じた。
+> 空間知識はランドマーク知識、ルート知識、サーベイ知識の順に発達するというモデルが提案された。
 >
-> — *Lynch (1960) The Image of the City*
+> — *Siegel & White (1975) Adv Child Dev Behav 10:9-55*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
