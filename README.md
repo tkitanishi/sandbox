@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-10-31** の一言（32/37）
+> **2026-11-01** の一言（33/37）
 >
-> 空間知識はランドマーク知識、ルート知識、サーベイ知識の順に発達するというモデルが提案された。
+> 仔を探しに巣を出たスナネズミの母親は、真っ暗な中でも経路積分によって巣へまっすぐ戻ることができる。
 >
-> — *Siegel & White (1975) Adv Child Dev Behav 10:9-55*
+> — *Mittelstaedt & Mittelstaedt (1980) Naturwissenschaften 67:566-567*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
