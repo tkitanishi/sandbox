@@ -35,11 +35,11 @@ main に push されるたびに GitHub Actions が描き直します（bot の�
 ## 今日の認知地図豆知識
 
 <!-- TRIVIA:START -->
-> **2026-11-01** の一言（33/37）
+> **2026-11-02** の一言（34/37）
 >
-> 仔を探しに巣を出たスナネズミの母親は、真っ暗な中でも経路積分によって巣へまっすぐ戻ることができる。
+> 場所や風景の画像に選択的に反応する脳領域、海馬傍回場所領域（PPA）が報告された。
 >
-> — *Mittelstaedt & Mittelstaedt (1980) Naturwissenschaften 67:566-567*
+> — *Epstein & Kanwisher (1998) Nature 392:598-601*
 <!-- TRIVIA:END -->
 
 GitHub Actions が毎朝6時過ぎ（JST）にこの欄を書き換えます。ネタは [`trivia/facts.json`](trivia/facts.json) に入っていて、1日1件ずつ順番に表示されます。お気に入りの論文や小ネタがあれば、次の形式で追加してください。
